@@ -1,0 +1,59 @@
+﻿  main.cpp
+E:\SDK\Jun2010\Include\dxgitype.h(12,1): warning C4005: DXGI_STATUS_OCCLUDED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57616): message : см. предыдущее определение "DXGI_STATUS_OCCLUDED"
+E:\SDK\Jun2010\Include\dxgitype.h(13,1): warning C4005: DXGI_STATUS_CLIPPED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57625): message : см. предыдущее определение "DXGI_STATUS_CLIPPED"
+E:\SDK\Jun2010\Include\dxgitype.h(14,1): warning C4005: DXGI_STATUS_NO_REDIRECTION: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57634): message : см. предыдущее определение "DXGI_STATUS_NO_REDIRECTION"
+E:\SDK\Jun2010\Include\dxgitype.h(15,1): warning C4005: DXGI_STATUS_NO_DESKTOP_ACCESS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57643): message : см. предыдущее определение "DXGI_STATUS_NO_DESKTOP_ACCESS"
+E:\SDK\Jun2010\Include\dxgitype.h(16,1): warning C4005: DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57652): message : см. предыдущее определение "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+E:\SDK\Jun2010\Include\dxgitype.h(17,1): warning C4005: DXGI_STATUS_MODE_CHANGED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57661): message : см. предыдущее определение "DXGI_STATUS_MODE_CHANGED"
+E:\SDK\Jun2010\Include\dxgitype.h(18,1): warning C4005: DXGI_STATUS_MODE_CHANGE_IN_PROGRESS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57670): message : см. предыдущее определение "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+E:\SDK\Jun2010\Include\dxgitype.h(21,1): warning C4005: DXGI_ERROR_INVALID_CALL: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57685): message : см. предыдущее определение "DXGI_ERROR_INVALID_CALL"
+E:\SDK\Jun2010\Include\dxgitype.h(22,1): warning C4005: DXGI_ERROR_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57694): message : см. предыдущее определение "DXGI_ERROR_NOT_FOUND"
+E:\SDK\Jun2010\Include\dxgitype.h(23,1): warning C4005: DXGI_ERROR_MORE_DATA: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57703): message : см. предыдущее определение "DXGI_ERROR_MORE_DATA"
+E:\SDK\Jun2010\Include\dxgitype.h(24,1): warning C4005: DXGI_ERROR_UNSUPPORTED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57712): message : см. предыдущее определение "DXGI_ERROR_UNSUPPORTED"
+E:\SDK\Jun2010\Include\dxgitype.h(25,1): warning C4005: DXGI_ERROR_DEVICE_REMOVED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57721): message : см. предыдущее определение "DXGI_ERROR_DEVICE_REMOVED"
+E:\SDK\Jun2010\Include\dxgitype.h(26,1): warning C4005: DXGI_ERROR_DEVICE_HUNG: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57730): message : см. предыдущее определение "DXGI_ERROR_DEVICE_HUNG"
+E:\SDK\Jun2010\Include\dxgitype.h(27,1): warning C4005: DXGI_ERROR_DEVICE_RESET: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57740): message : см. предыдущее определение "DXGI_ERROR_DEVICE_RESET"
+E:\SDK\Jun2010\Include\dxgitype.h(28,1): warning C4005: DXGI_ERROR_WAS_STILL_DRAWING: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57749): message : см. предыдущее определение "DXGI_ERROR_WAS_STILL_DRAWING"
+E:\SDK\Jun2010\Include\dxgitype.h(29,1): warning C4005: DXGI_ERROR_FRAME_STATISTICS_DISJOINT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57759): message : см. предыдущее определение "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+E:\SDK\Jun2010\Include\dxgitype.h(30,1): warning C4005: DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57768): message : см. предыдущее определение "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+E:\SDK\Jun2010\Include\dxgitype.h(31,1): warning C4005: DXGI_ERROR_DRIVER_INTERNAL_ERROR: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57778): message : см. предыдущее определение "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+E:\SDK\Jun2010\Include\dxgitype.h(32,1): warning C4005: DXGI_ERROR_NONEXCLUSIVE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57787): message : см. предыдущее определение "DXGI_ERROR_NONEXCLUSIVE"
+E:\SDK\Jun2010\Include\dxgitype.h(33,1): warning C4005: DXGI_ERROR_NOT_CURRENTLY_AVAILABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57796): message : см. предыдущее определение "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+E:\SDK\Jun2010\Include\dxgitype.h(34,1): warning C4005: DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57806): message : см. предыдущее определение "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+E:\SDK\Jun2010\Include\dxgitype.h(35,1): warning C4005: DXGI_ERROR_REMOTE_OUTOFMEMORY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57815): message : см. предыдущее определение "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+E:\SDK\Jun2010\Include\d3d11.h(917,1): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58107): message : см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+E:\SDK\Jun2010\Include\d3d11.h(918,1): warning C4005: D3D11_ERROR_FILE_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58116): message : см. предыдущее определение "D3D11_ERROR_FILE_NOT_FOUND"
+E:\SDK\Jun2010\Include\d3d11.h(919,1): warning C4005: D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58126): message : см. предыдущее определение "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+E:\SDK\Jun2010\Include\d3d11.h(920,1): warning C4005: D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58135): message : см. предыдущее определение "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+E:\SDK\Jun2010\Include\d3d10.h(608,1): warning C4005: D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58083): message : см. предыдущее определение "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+E:\SDK\Jun2010\Include\d3d10.h(609,1): warning C4005: D3D10_ERROR_FILE_NOT_FOUND: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58092): message : см. предыдущее определение "D3D10_ERROR_FILE_NOT_FOUND"
+E:\FloppaEye\engine\floppaeyeengine\htTicks.h(14,23): warning C4244: =: преобразование "DWORD" в "float", возможна потеря данных
+  floppaeyeengine.vcxproj -> E:\FloppaEye\engine\floppaeyeengine\Debug\floppaeyeengine.exe
