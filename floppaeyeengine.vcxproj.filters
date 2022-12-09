@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{43dda69d-60ec-4f63-9d2f-3f56297791ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FloppaEye">
+      <UniqueIdentifier>{b26df67f-5400-48c1-8fd1-c1b4e8c0d79f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FloppaEye\Engine">
+      <UniqueIdentifier>{49233d75-b71a-427a-a352-92c03baaa89f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FloppaEye\Engine\physX">
+      <UniqueIdentifier>{5d86b9db-ebaa-43b8-9a62-d7b761dbda8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FloppaEye\HelpedTools">
+      <UniqueIdentifier>{6283a359-32fc-4867-bf2a-5503560832ad}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="eEngine.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="eBuffer.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="eWindow.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="eMessage.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="eShader.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="htTicks.h">
+      <Filter>FloppaEye\HelpedTools</Filter>
+    </ClInclude>
+    <ClInclude Include="eTexture.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="eMatrix.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="eFloppaPhys.h">
+      <Filter>FloppaEye\Engine\physX</Filter>
+    </ClInclude>
+    <ClInclude Include="FloppaEyeEngine.h">
+      <Filter>FloppaEye</Filter>
+    </ClInclude>
+    <ClInclude Include="eLight.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="eDefines.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="eRenderTargetView.h">
+      <Filter>FloppaEye\Engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
