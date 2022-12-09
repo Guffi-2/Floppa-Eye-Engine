@@ -13,22 +13,22 @@ eCameraObject cam;
 
 void CameraMove()
 {
-	static const float speed = 0.002f;
-	static const float speed_m = 0.0001f;
+	static const float speed = 0.005f;
+	static const float speed_m = 0.0005f;
 
-	// Повороты камеры
+	// ГЏГ®ГўГ®Г°Г®ГІГ» ГЄГ Г¬ГҐГ°Г»
 	if (GetAsyncKeyState(VK_LEFT) & 0x8000f) { matrix.setRotation(0.0f, -speed_m, 0); }
 	if (GetAsyncKeyState(VK_RIGHT) & 0x8000f) { matrix.setRotation(0.0f, speed_m, 0); }
 	if (GetAsyncKeyState(VK_UP) & 0x8000f) { matrix.setRotation(-speed_m, 0.0f, 0); }
 	if (GetAsyncKeyState(VK_DOWN) & 0x8000f) { matrix.setRotation(speed_m, 0.0f, 0); }
 
-	// Вперед, назад, лево, право
+	// Г‚ГЇГҐГ°ГҐГ¤, Г­Г Г§Г Г¤, Г«ГҐГўГ®, ГЇГ°Г ГўГ®
 	if (GetAsyncKeyState('W') & 0x8000f) { matrix.setPosition(matrix.getForward() * speed); }
 	if (GetAsyncKeyState('S') & 0x8000f) { matrix.setPosition(matrix.getBackward() * speed); }
 	if (GetAsyncKeyState('A') & 0x8000f) { matrix.setPosition(matrix.getLeft() * speed); }
 	if (GetAsyncKeyState('D') & 0x8000f) { matrix.setPosition(matrix.getRight() * speed); }
 
-	// Вверх, в низ
+	// Г‚ГўГҐГ°Гµ, Гў Г­ГЁГ§
 	if (GetAsyncKeyState(VK_SPACE)) { matrix.setPosition(0.0f, speed, 0.0f); }
 	if (GetAsyncKeyState('Z')) { matrix.setPosition(0.0f, -speed, 0.0f); }
 }
@@ -39,7 +39,7 @@ void Init() {
 	defShader.AddInputLayout("NORMAL", DXGI_FORMAT_R32G32B32_FLOAT);
 
 	defShader.CreateShader(engine.getDevice(), "Effects.fx", "VS", "vs_4_0", FLOPPA_VERTEX);
-	defShader.CreateShader(engine.getDevice(), "Effects.fx", "PS", "ps_4_0", FLOPPA_PIXEL); //Создание шейдера
+	defShader.CreateShader(engine.getDevice(), "Effects.fx", "PS", "ps_4_0", FLOPPA_PIXEL); //Г‘Г®Г§Г¤Г Г­ГЁГҐ ГёГҐГ©Г¤ГҐГ°Г 
 	matrix.CreateMatrix(engine.getDevice());
 	object.CreateObject(engine.getDevice());
 	object.setMatrix(&matrix);	
